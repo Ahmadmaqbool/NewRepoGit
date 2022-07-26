@@ -5,5 +5,6 @@ public class SimpleGitBashTest {
     	   System.out.println("class is created");
               //wow
               //changes
+              //we
        }
 }
