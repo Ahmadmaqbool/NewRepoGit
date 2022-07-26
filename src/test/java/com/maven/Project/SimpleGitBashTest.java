@@ -7,6 +7,7 @@ public class SimpleGitBashTest {
     	   System.out.println("hello");
     	 //new changes
     	   System.out.println("my");
+    	   //again new changes.
     	   //fgfrd
        }
 }
